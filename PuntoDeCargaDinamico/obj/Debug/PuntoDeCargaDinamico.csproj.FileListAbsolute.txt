@@ -1,0 +1,6 @@
+C:\Users\juako\source\repos\PuntosCargaDinamicos\PuntoDeCargaDinamico\obj\Debug\PuntoDeCargaDinamico.csprojAssemblyReference.cache
+C:\Users\juako\source\repos\PuntosCargaDinamicos\PuntoDeCargaDinamico\obj\Debug\PuntoDeCargaDinamico.csproj.CoreCompileInputs.cache
+C:\Users\juako\source\repos\PuntosCargaDinamicos\PuntoDeCargaDinamico\bin\Debug\PuntoDeCargaDinamico.dll
+C:\Users\juako\source\repos\PuntosCargaDinamicos\PuntoDeCargaDinamico\bin\Debug\PuntoDeCargaDinamico.pdb
+C:\Users\juako\source\repos\PuntosCargaDinamicos\PuntoDeCargaDinamico\obj\Debug\PuntoDeCargaDinamico.dll
+C:\Users\juako\source\repos\PuntosCargaDinamicos\PuntoDeCargaDinamico\obj\Debug\PuntoDeCargaDinamico.pdb
